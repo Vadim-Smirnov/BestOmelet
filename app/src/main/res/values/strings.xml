@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestOmelet</string>
+    <string name="recipe_list_is_empty">Recipe list is empty</string>
+    <string name="search_for_recipes_hint">Search for recipes</string>
+</resources>
